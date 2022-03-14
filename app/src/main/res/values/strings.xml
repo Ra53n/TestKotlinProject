@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestKotlinProject</string>
+    <string name="button_text">Tap on me!</string>
 </resources>
